@@ -12,15 +12,11 @@ A visually interactive **Budget Dashboard** built in Microsoft Excel to help you
 ## 🖼️ Visual Previews  
 
 ### Dashboard Overview  
-![Dashboard Overview](path/to/your/image1.png)  
-*An interactive dashboard showcasing your income, expenses, and savings progress.*  
-
-### Expense Breakdown  
-![Expense Breakdown](path/to/your/image2.png)  
-*A pie chart and bar graph providing a detailed view of your spending by category.*  
+![Dashboard Overview](img1.png)  
+*An interactive dashboard showcasing your income, expenses, and savings progress.*    
 
 ### Savings Tracker  
-![Savings Tracker](path/to/your/image3.png)  
+![Savings Tracker](img2.png)  
 *Track your savings progress with visual indicators and trend analysis.*  
 
 ## 🛠️ How to Use  
